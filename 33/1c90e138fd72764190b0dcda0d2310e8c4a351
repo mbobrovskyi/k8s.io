@@ -1,0 +1,14 @@
+registry.k8s.io/images/k8s-staging-kueue/images.yaml
+  h_47cee5fa694435 5,89,127,137,254,292,302,371
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "331c90e138fd72764190b0dcda0d2310e8c4a351",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
