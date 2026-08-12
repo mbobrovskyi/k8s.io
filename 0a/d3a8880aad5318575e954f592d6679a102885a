@@ -1,0 +1,14 @@
+registry.k8s.io/images/k8s-staging-kueue/OWNERS
+  h_47cee5fa694435 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0ad3a8880aad5318575e954f592d6679a102885a",
+  "prompts": {},
+  "humans": {
+    "h_47cee5fa694435": {
+      "author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
