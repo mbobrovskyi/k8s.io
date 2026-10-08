@@ -1,0 +1,19 @@
+kubernetes/gke-prow/prow/hook.yaml
+  s_1e93d025d4630b::t_bb8762d284c020 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7db4c4bda4a8d324ec708ecf12bb68ed7221e4af",
+  "prompts": {},
+  "sessions": {
+    "s_1e93d025d4630b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49d9ab48-d56c-469d-9b5c-b26a3fdca5f8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
