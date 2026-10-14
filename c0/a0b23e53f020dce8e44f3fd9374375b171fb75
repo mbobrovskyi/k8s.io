@@ -1,0 +1,19 @@
+kubernetes/gke-prow/prow/hook.yaml
+  s_3857b2302a22ab::t_c4b43830b3ae66 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c0a0b23e53f020dce8e44f3fd9374375b171fb75",
+  "prompts": {},
+  "sessions": {
+    "s_3857b2302a22ab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_3857b2302a22ab",
+        "model": "unknown"
+      },
+      "human_author": "Mykhailo Bobrovskyi <mikhail.bobrovsky@gmail.com>"
+    }
+  }
+}
